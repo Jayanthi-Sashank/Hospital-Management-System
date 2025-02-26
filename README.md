@@ -1,10 +1,10 @@
 Hospital Management System (SQL Server Project)
 
-📌 Project Overview
+ **Project Overview**
 
 The Hospital Management System is an SQL-based project designed to manage patients, doctors, appointments, and medical records efficiently. It is built using SQL Server and covers real-time database operations including CRUD operations, stored procedures, triggers, indexing, and optimization.
 
-🎯 Project Objectives
+**Project Objectives**
 
 Efficiently manage patient records, doctor details, and appointments.
 
@@ -14,7 +14,7 @@ Implement stored procedures, triggers, and indexing for performance optimization
 
 Ensure data integrity using constraints and foreign keys.
 
-🏛️ Database Architecture
+ **Database Architecture**
 
 The database consists of the following tables:
 
