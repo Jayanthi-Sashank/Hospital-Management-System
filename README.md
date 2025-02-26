@@ -25,3 +25,15 @@ Doctors: Stores doctor details and specializations.
 Appointments: Manages patient-doctor appointments.
 
 MedicalRecords: Stores patient medical history and prescriptions
+
+**Contributors**
+
+Jayanthi Sashank 
+
+Open for collaboration – feel free to contribute!
+
+**License**
+
+This project is open-source and free to use for educational purposes.
+
+
